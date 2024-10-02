@@ -15,7 +15,7 @@ I'm currently diving deeper into Deep Learning and Natural Language Processing (
 I love networking and collaborating on innovative projects. Feel free to connect or reach out!
 
 📧 thameemthammi209@gmail.com
-🌐 (https://www.linkedin.com/in/muhamad-thameem)
+🌐 https://www.linkedin.com/in/muhamad-thameem
 
 
 <!---
